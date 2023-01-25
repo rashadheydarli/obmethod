@@ -1,0 +1,15 @@
+/Users/rashadheydarli/Projects/Cmehtod/Cmehtod/obj/Debug/net7.0/Cmehtod.csproj.AssemblyReference.cache
+/Users/rashadheydarli/Projects/Cmehtod/Cmehtod/obj/Debug/net7.0/Cmehtod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rashadheydarli/Projects/Cmehtod/Cmehtod/obj/Debug/net7.0/Cmehtod.AssemblyInfoInputs.cache
+/Users/rashadheydarli/Projects/Cmehtod/Cmehtod/obj/Debug/net7.0/Cmehtod.AssemblyInfo.cs
+/Users/rashadheydarli/Projects/Cmehtod/Cmehtod/obj/Debug/net7.0/Cmehtod.csproj.CoreCompileInputs.cache
+/Users/rashadheydarli/Projects/Cmehtod/Cmehtod/bin/Debug/net7.0/Cmehtod
+/Users/rashadheydarli/Projects/Cmehtod/Cmehtod/bin/Debug/net7.0/Cmehtod.deps.json
+/Users/rashadheydarli/Projects/Cmehtod/Cmehtod/bin/Debug/net7.0/Cmehtod.runtimeconfig.json
+/Users/rashadheydarli/Projects/Cmehtod/Cmehtod/bin/Debug/net7.0/Cmehtod.dll
+/Users/rashadheydarli/Projects/Cmehtod/Cmehtod/bin/Debug/net7.0/Cmehtod.pdb
+/Users/rashadheydarli/Projects/Cmehtod/Cmehtod/obj/Debug/net7.0/Cmehtod.dll
+/Users/rashadheydarli/Projects/Cmehtod/Cmehtod/obj/Debug/net7.0/refint/Cmehtod.dll
+/Users/rashadheydarli/Projects/Cmehtod/Cmehtod/obj/Debug/net7.0/Cmehtod.pdb
+/Users/rashadheydarli/Projects/Cmehtod/Cmehtod/obj/Debug/net7.0/Cmehtod.genruntimeconfig.cache
+/Users/rashadheydarli/Projects/Cmehtod/Cmehtod/obj/Debug/net7.0/ref/Cmehtod.dll
